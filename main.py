@@ -6,7 +6,6 @@ def calcular_area(radio):
 def calcular_perimetro(radio):
     return 2 * math.pi * radio
 
-# ... (actualiza el print para mostrar también el perímetro)
 
 if __name__ == "__main__":
     r = float(input("Introduce el radio del círculo: "))
